@@ -8,7 +8,7 @@ response = ollama.chat(
         },
         {
             "role": "user",
-            "content":"Explain ml"
+            "content":"Explain ml"cd 
         }
     ]
 )
