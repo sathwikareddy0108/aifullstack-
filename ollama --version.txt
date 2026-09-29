@@ -1,0 +1,64 @@
+ollama --version
+ollama pull llama3.2:3b
+ollama run llama3.2:3b
+To stop conversation press ctrl+D
+to create a new file by code
+after that enter the python code ai_query.py
+if incase it doesn't work do pip install ollama
+
+
+Git commands:
+
+=> git init	create a new Git repository in your project folder
+=> git remote add origin <URL>	connects your local repository to a GitHub repository
+=> git status	show the current status of your files
+=> git add	stages all changes to be committed
+=> git commit -m "message"	saves your changes with a message
+=> git push	uploads your commits to Git hub
+=> git pull	downloads the latest changes from GitHub
+
+
+to run python code
+
+python ai_query.py
+cd ..
+mkdir Day02
+cd Day02
+code prompt_1.py
+code prompt_2.py
+
+
+download the
+
+pip install streamlit
+
+
+if command is not working python -m pip install streamlit
+
+to run streamlit code do:
+
+streamlit run file.py
+
+
+https://docs.streamlit.io
+
+
+Commands in streamlit
+
+st.title("Welcome to my first app")
+st.header("Home Page....")
+st.subheader("About .....")
+st.chat_message("Images....")
+st.write("Hello")
+st.chat_input()
+st.fileuploaded()
+
+
+
+git init
+git config --global user.name "keerthireddy1708"
+git config --global user.email "kondreddykeerthi@gmail.com"
+git remote add origin https://github.com/keerthireddy1708/ai_full_stack
+git remote -v
+git branch -M main (to convert master to main)
+git status
