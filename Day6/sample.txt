@@ -3,4 +3,3 @@ Machine learning is a subset of artificial intelligence
 deep learning uses neutral  networks.
 large language models can understand and generate human-like text.
 RAG combines retrival with language generation.
- 
